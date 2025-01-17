@@ -37,4 +37,7 @@ user: external
 pass: zgKhEmg4P9aZjBPx
 
 Evidencias dos tests:
-![Screenshot from 2024-07-12 00-45-51.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-07-12%2000-45-51.png)
+
+![Screenshot from 2025-01-16 21-52-09](https://github.com/user-attachments/assets/9700c7d4-92e0-400c-83b0-6815b283b523)
+![Screenshot from 2025-01-16 22-27-25](https://github.com/user-attachments/assets/42367b47-a9cd-4646-bab8-2e20ecf2f805)
+
