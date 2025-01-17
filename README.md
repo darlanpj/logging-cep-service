@@ -17,7 +17,7 @@ Depois com alguma aplicação de chamada de API
 
 Validações:
 
-* Caso 2 - Salva no PostGresSQL
+* Caso 2 - Salva no PostgreSQL
 ```shell
 curl --location 'http://localhost:8090/cep/04757000'
 ```
